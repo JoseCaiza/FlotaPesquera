@@ -1,0 +1,6 @@
+H:\202018\ASIGNATURAS\PROGRAMACION VISUAL\ejerciciosclase\sistemaFlotaPesquera\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+H:\202018\ASIGNATURAS\PROGRAMACION VISUAL\ejerciciosclase\sistemaFlotaPesquera\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+H:\202018\ASIGNATURAS\PROGRAMACION VISUAL\ejerciciosclase\sistemaFlotaPesquera\CapaDatos\bin\Debug\CapaDatos.dll
+H:\202018\ASIGNATURAS\PROGRAMACION VISUAL\ejerciciosclase\sistemaFlotaPesquera\CapaDatos\bin\Debug\CapaDatos.pdb
+H:\202018\ASIGNATURAS\PROGRAMACION VISUAL\ejerciciosclase\sistemaFlotaPesquera\CapaDatos\obj\Debug\CapaDatos.dll
+H:\202018\ASIGNATURAS\PROGRAMACION VISUAL\ejerciciosclase\sistemaFlotaPesquera\CapaDatos\obj\Debug\CapaDatos.pdb
